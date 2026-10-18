@@ -1,0 +1,6 @@
+position	asset_id	vault	title	source_format	recorded_on	action	basis	latest_attempt_utc	target_format
+1	MA-204	Amber Vault	Canal Workers	Reel	2079-07-30	QUARANTINE	mold detected	2094-09-19T07:45:00Z	FLAC
+2	MA-207	Cedar Vault	Dock Bells	DAT	2082-06-01	RETRY	latest transfer failed	2094-09-17T12:00:00Z	WAV
+3	MA-203	Nitrate Vault	Fog Bell Sessions (index copy)	MiniDV	2089-12-02	RETRY	latest transfer failed	2094-09-18T16:20:00Z	FLAC
+4	MA-201	Nitrate Vault	Tern Colony Interviews	DAT	2086-04-11	MIGRATE	obsolete source with no usable attempt	none	none
+5	MA-208	Nitrate Vault	Night Ferry	MiniDV	2093-03-21	MIGRATE	obsolete source with no usable attempt	none	none
